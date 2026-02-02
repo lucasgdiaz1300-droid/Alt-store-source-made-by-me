@@ -1,0 +1,221 @@
+{
+  "name": "Crash bandicoot n’ sane troligy store",
+  "subtitle": "A source for all of my apps",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://i.imgur.com/fh47sZX.png",
+  "website": "https://altstudio.app",
+  "patreonURL": "https://patreon.com/altstudio",
+  "tintColor": "#6156e2",
+  "featuredApps": [
+    "com.l46ce7v0go.qcv4fdsf4l",
+    "com.puvjgqqjax.f4lsxdu2gj",
+    "com.sjgv5ysmqn.n5iblae7rh",
+    "com.k3b7bwoa2s.1jwnbhlcjr",
+    "com.vdsidtqxsq.pznygqecau"
+  ],
+  "headerURL": "https://i.imgur.com/gcO9Cao.png",
+  "apps": [
+    {
+      "name": "Lucas",
+      "bundleIdentifier": "com.k3b7bwoa2s.1jwnbhlcjr",
+      "marketplaceID": "12234798543664330203039292",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/NQtDxMy.jpeg",
+      "tintColor": "#6156e2",
+      "category": "photo-video",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Super Mario Odyssey ",
+      "bundleIdentifier": "com.vdsidtqxsq.pznygqecau",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore. A movie version of super Mario ody",
+      "iconURL": "https://i.imgur.com/MjpXTAB.png",
+      "tintColor": "#6156e2",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Old Roblox",
+      "bundleIdentifier": "com.wyu8rycxtq.2a2wdozvfr",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/79SGx6l.png",
+      "tintColor": "#6156e2",
+      "category": "games",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "The Fox Game",
+      "bundleIdentifier": "com.sjgv5ysmqn.n5iblae7rh",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/Nmngic9.png",
+      "tintColor": "#6156e2",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://site.com/someapp.ipa.html.html5",
+          "size": 11000000,
+          "version": "1.0.0",
+          "buildVersion": "123",
+          "date": "2026-02-02T20:31:00-05:00",
+          "localizedDescription": "A game where you can be a fox",
+          "minOSVersion": "12.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "What the how!!??",
+      "bundleIdentifier": "com.puvjgqqjax.f4lsxdu2gj",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/4Jqb8TC.png",
+      "tintColor": "#6156e2",
+      "category": "photo-video",
+      "screenshots": {
+        "iphone": [
+          {
+            "imageURL": "https://i.imgur.com/hedirFW.png",
+            "width": 1920,
+            "height": 894
+          },
+          {
+            "imageURL": "https://i.imgur.com/uo0h5uy.png",
+            "width": 900,
+            "height": 492
+          },
+          {
+            "imageURL": "https://i.imgur.com/RYINzvv.png",
+            "width": 2160,
+            "height": 1257
+          }
+        ],
+        "ipad": [
+          "https://i.imgur.com/iLOaZOZ.png",
+          {
+            "imageURL": "https://i.imgur.com/dYlONTR.png",
+            "width": 1610,
+            "height": 1080
+          },
+          {
+            "imageURL": "https://i.imgur.com/0cAKgL5.jpeg",
+            "width": 2160,
+            "height": 1620
+          }
+        ]
+      },
+      "versions": [
+        {
+          "downloadURL": "https://bruh.com/qkskduddjdjdkskskrkekdfkfjdjdmc.html",
+          "size": 1000000,
+          "version": "1.0.0",
+          "buildVersion": "123",
+          "date": "2026-02-01T20:27:00-05:00",
+          "localizedDescription": "lol",
+          "minOSVersion": "12.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Flappy Bird GBA",
+      "bundleIdentifier": "com.l46ce7v0go.qcv4fdsf4l",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/yh1ztYu.png",
+      "tintColor": "#6156e2",
+      "category": "games",
+      "screenshots": {
+        "iphone": [
+          {
+            "imageURL": "https://i.imgur.com/jqNaqQn.png",
+            "width": 1920,
+            "height": 982
+          },
+          {
+            "imageURL": "https://i.imgur.com/xVLCoNp.png",
+            "width": 1920,
+            "height": 803
+          },
+          "https://i.imgur.com/QCVpWWn.png",
+          "https://i.imgur.com/zthVej8.png"
+        ],
+        "ipad": [
+          {
+            "imageURL": "https://i.imgur.com/REU4Gj4.png",
+            "width": 420,
+            "height": 293
+          },
+          {
+            "imageURL": "https://i.imgur.com/ElNJYHK.png",
+            "width": 1032,
+            "height": 595
+          },
+          {
+            "imageURL": "https://i.imgur.com/X8hUEFQ.png",
+            "width": 1920,
+            "height": 1080
+          }
+        ]
+      },
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-02-02T03:28:00-05:00",
+          "localizedDescription": "First version",
+          "downloadURL": "https://t.com/whattheappupdat",
+          "size": 9000000000,
+          "buildVersion": "123",
+          "minOSVersion": "12.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
